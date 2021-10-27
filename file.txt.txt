@@ -1,0 +1,2 @@
+Git ferramenta de versionamento distribuido
+GitHub sevidor remoto para armazenar o código
